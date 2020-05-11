@@ -1,4 +1,7 @@
-# COVID19-Global-Forecasting
+# COVID19
+
+Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus.
+Most people who fall sick with COVID-19 will experience mild to moderate symptoms and recover without special treatment.
 
 
 ## <center> <font color='red'><a href='https://medium.com/international-school-of-ai-data-science/the-epidemic-outbreak-novel-coronavirus-2019-ncov-4e635a4f450c'>How Coronavirus spread aroud the world</a></font></center>
