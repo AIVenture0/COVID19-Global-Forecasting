@@ -37,9 +37,19 @@ A novel coronavirus (nCoV) is a new strain that has not been previously identifi
 
 <center><img src="https://i.ytimg.com/vi/CUCPpYzoETk/maxresdefault.jpg" height=250 width=550/></center>
 
+<br>
+
+Check the [Medium Blog](https://medium.com/international-school-of-ai-data-science/the-epidemic-outbreak-novel-coronavirus-2019-ncov-4e635a4f450c)
 
 
-Check the [Blog](https://medium.com/international-school-of-ai-data-science/the-epidemic-outbreak-novel-coronavirus-2019-ncov-4e635a4f450c)
+## Author
+<b>Vinay Vikram</b>
 
+- Twitter: https://twitter.com/vikramvinay1
+- Linkdin: https://www.linkedin.com/in/vikram-singh-ai-venture/
+- Facebook: https://www.facebook.com/AIVentureO/https://www.quora.com/profile/Vinay-Vikram-8
+- Quora: https://www.quora.com/profile/Vinay-Vikram-8
 
+### [Check my work](https://vikramvinay.github.io/)
 
+                                        -----Feel Free to contact us if you have any question-----
