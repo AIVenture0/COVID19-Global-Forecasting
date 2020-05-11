@@ -1,7 +1,7 @@
 # COVID19-Global-Forecasting
 
 
-# <center> <font color='red'>**How Coronavirus spread aroud the world**</font></center>
+## <center> <font color='red'><a href='https://medium.com/international-school-of-ai-data-science/the-epidemic-outbreak-novel-coronavirus-2019-ncov-4e635a4f450c'>How Coronavirus spread aroud the world</a></font></center>
 
 <center><img src="https://storage.googleapis.com/kaggle-datasets-images/490520/913071/6f768170042ff67201713be09e3ad3df/dataset-cover.jpg?t=2020-01-26-22-15-00"/></center>
 
